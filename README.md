@@ -1,4 +1,4 @@
-## Hi there 👋
+# Bonjour, je suis Marion 👋
 
 <!--
 **NamaKa298/NamaKa298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 💻 Technologies
+### Langages
+[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### Outils
+
+## 📫 Contact
+- 📧 Email pro : [email]
+- 💼 LinkedIn : [lien]
