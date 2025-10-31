@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 ### Outils
 
 ## 📫 Contact
-- 📧 Email pro : [email]
+- 📧 Email pro : marion.saint-martin_pro@protonmail.com
 - 💼 LinkedIn : [lien]
