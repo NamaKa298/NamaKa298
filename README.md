@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 📫 Contact
-- 💼 LinkedIn : [lien]
+- 💼 LinkedIn : [[Marion Saint-Martin]](https://www.linkedin.com/in/marionsaint-martin/)
